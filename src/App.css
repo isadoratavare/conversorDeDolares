@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,600;0,700;1,500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+body{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    background-color: #87BAAB;
+}
+h1{
+    color: white;
+    font-family: 'Poppins';
+    font-weight: bold;
+    font-size: 3em;
+    padding-top: 20px;
+}
+h2{
+  font-family: 'Raleway';
+  color: white;
+  font-weight: bold;
+}
